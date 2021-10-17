@@ -4,3 +4,4 @@ python-Levenshtein
 matplotlib
 nltk
 wordcloud
+selenium
